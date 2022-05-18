@@ -1,4 +1,2 @@
-a = int(input())
-b, c = map(int, input().split())
-s = input()
-print(a + b + c, s)
+a = 20
+print(a // 10000)
